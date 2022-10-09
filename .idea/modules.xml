@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.HelloWorld/1.HelloWorld.iml" filepath="$PROJECT_DIR$/1.HelloWorld/1.HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.StringDemo/10.StringDemo.iml" filepath="$PROJECT_DIR$/10.StringDemo/10.StringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.MiniProjects/11.MiniProjects.iml" filepath="$PROJECT_DIR$/11.MiniProjects/11.MiniProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Variables/2.Variables.iml" filepath="$PROJECT_DIR$/2.Variables/2.Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.DataTypes/3.DataTypes.iml" filepath="$PROJECT_DIR$/3.DataTypes/3.DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Conditionals/4.Conditionals.iml" filepath="$PROJECT_DIR$/4.Conditionals/4.Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.ReCapDemo/5.ReCapDemo.iml" filepath="$PROJECT_DIR$/5.ReCapDemo/5.ReCapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.SwitchDemo/6.SwitchDemo.iml" filepath="$PROJECT_DIR$/6.SwitchDemo/6.SwitchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.LoopDemo/7.LoopDemo.iml" filepath="$PROJECT_DIR$/7.LoopDemo/7.LoopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.ArrayDemo/8.ArrayDemo.iml" filepath="$PROJECT_DIR$/8.ArrayDemo/8.ArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.MultiDimensionalArrayDemo/9.MultiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/9.MultiDimensionalArrayDemo/9.MultiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCampDay2/Day2Homework1/Day2Homework1.iml" filepath="$PROJECT_DIR$/JavaCampDay2/Day2Homework1/Day2Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCampDay3/Day3Homework2/Day3Homework2.iml" filepath="$PROJECT_DIR$/JavaCampDay3/Day3Homework2/Day3Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video1/Video1.iml" filepath="$PROJECT_DIR$/Video1/Video1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video2/Video2.iml" filepath="$PROJECT_DIR$/Video2/Video2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video3/Video3.iml" filepath="$PROJECT_DIR$/Video3/Video3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javademos.iml" filepath="$PROJECT_DIR$/.idea/javademos.iml" />
+    </modules>
+  </component>
+</project>
