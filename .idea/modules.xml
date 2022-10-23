@@ -16,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/2.Variables/2.Variables.iml" filepath="$PROJECT_DIR$/2.Variables/2.Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/20.AbstractClasses/20.AbstractClasses.iml" filepath="$PROJECT_DIR$/20.AbstractClasses/20.AbstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/21.AbstractDemo/21.AbstractDemo.iml" filepath="$PROJECT_DIR$/21.AbstractDemo/21.AbstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.Interface/22.Interface.iml" filepath="$PROJECT_DIR$/22.Interface/22.Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.InterfaceDemo/23.InterfaceDemo.iml" filepath="$PROJECT_DIR$/23.InterfaceDemo/23.InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.StaticDemo/24.StaticDemo.iml" filepath="$PROJECT_DIR$/24.StaticDemo/24.StaticDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.DataTypes/3.DataTypes.iml" filepath="$PROJECT_DIR$/3.DataTypes/3.DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Conditionals/4.Conditionals.iml" filepath="$PROJECT_DIR$/4.Conditionals/4.Conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.ReCapDemo/5.ReCapDemo.iml" filepath="$PROJECT_DIR$/5.ReCapDemo/5.ReCapDemo.iml" />
